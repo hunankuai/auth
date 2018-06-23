@@ -1,0 +1,19 @@
+{
+    "name": "hunankuai/auth",
+    "description": "hunankuai auth",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "hunankuai",
+            "email": "hunankuai@aliyun.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "hunankuai\\": "src/"
+        }
+    },
+    "require": {
+        "hunankuai/auth": "dev-master"
+    }
+}
