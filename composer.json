@@ -13,7 +13,4 @@
             "hunankuai\\": "src/"
         }
     },
-    "require": {
-        "hunankuai/auth": "dev-master"
-    }
 }
